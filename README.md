@@ -3,5 +3,5 @@ This is a template for .NET projects that comes with a login and registration bu
 
 To install clone the repe to a directory on your machine and run:
 ```bash
-dotnet new --install ~/(path to .template.config file)
+dotnet new --install ~/(path to the project file)
 ```
